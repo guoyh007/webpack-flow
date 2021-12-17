@@ -16,14 +16,6 @@
 
 # 操作步骤
 先安装（实践操作）
-npm i
-```
-  webpack
-  webpack-cli
-  babel-types
-  @babel/parser
-  @babel/traverse
-  @babel/generator
- ```
- -D
+
+> npm i webpack webpack-cli babel-types @babel/parser @babel/traverse @babel/generator -D
 接着在debugger中运行和调试
