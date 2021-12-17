@@ -15,11 +15,15 @@
 ```
 
 # 操作步骤
-先安装一下插件（实践操作）
+先安装（实践操作）
+npm i
 ```
-  "babel-types";
-  "@babel/parser";
-  "@babel/traverse";
-  "@babel/generator";
+  webpack
+  webpack-cli
+  babel-types
+  @babel/parser
+  @babel/traverse
+  @babel/generator
  ```
+ -D
 接着在debugger中运行和调试
